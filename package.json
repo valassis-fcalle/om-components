@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/valassis-fcalle.cevue-l5kvoron",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Ut8xoMtdGPpn3tsk4UT6 --open"
+  },
+  "dependencies": {
+    "vue": "next",
+    "bootstratp": "5.3.1"
+  }
+}
